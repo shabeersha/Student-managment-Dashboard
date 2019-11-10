@@ -1,3 +1,3 @@
 # Student-managment-Dashboard
 Dashboard Designed For Student Managment Webapplication.
-![image]https://raw.githubusercontent.com/shabeersha/Student-managment-Dashboard/master/screenshots/Screenshot01.png
+![alt text]https://raw.githubusercontent.com/shabeersha/Student-managment-Dashboard/master/screenshots/Screenshot01.png
